@@ -12,8 +12,6 @@ QuickStay is a frontend hotel booking application developed to practice modern R
 
 ## ✨ Features
 
-
-
 ### 👤 User Features
 
 - Responsive Landing Page
@@ -38,7 +36,6 @@ QuickStay is a frontend hotel booking application developed to practice modern R
 - Owner Dashboard
 - Add New Room
 - View Listed Rooms
-
 
 ---
 
@@ -73,8 +70,6 @@ QuickStay/
 └── .gitignore
 ```
 
-
-
 ## 📱 Responsive Design
 
 The application is fully responsive and works smoothly on:
@@ -95,13 +90,14 @@ This project uses **Clerk Authentication** for:
 - Secure Authentication Flow
 
 ---
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
 
-![Home Page](Screenshot/home-page.png)
+![Home Page](./Screenshot/home-page.png)
 
-### 🏨 Rooms 
+### 🏨 Rooms
 
 ![Rooms ](Screenshot/room-page.png)
 
@@ -127,16 +123,8 @@ This project uses **Clerk Authentication** for:
 
 ---
 
-
-
 ## 👩‍💻 Author
 
 **Shivani Tyagi**
 
 GitHub: https://github.com/Shivani1228
-
-
-
-
-
-
