@@ -101,27 +101,39 @@ This project uses **Clerk Authentication** for:
 
 ### 🏨 Rooms
 
-![Rooms ](ScreenShot/room-page.png)
+<p align="center">
+  <img src="ScreenShot/room-page.png" width="500"/>
+</p>
 
 ### 🛏️ Room Details
 
-![Room Details](ScreenShot/rooms-details.png)
+<p align="center">
+  <img src="ScreenShot/rooms-details.png" width="500"/>
+</p>
 
 ### 📅 My Bookings
 
-![My Bookings](ScreenShot/mybooking.png)
+<p align="center">
+  <img src="ScreenShot/mybooking.png" width="500"/>
+</p>
 
 ### 📊 Owner Dashboard
 
-![Owner Dashboard](ScreenShot/Dashboard.png)
+<p align="center">
+  <img src="ScreenShot/Dashboard.png" width="500"/>
+</p>
 
 ### ➕ Add Room
 
-![Add Room](ScreenShot/Add-Room.png)
+<p align="center">
+  <img src="ScreenShot/Add-Room.png" width="500"/>
+</p>
 
 ### 📋 Room Listings
 
-![Room Listings](ScreenShot/List-Room.png)
+<p align="center">
+  <img src="ScreenShot/List-Room.png" width="500"/>
+</p>
 
 ---
 
