@@ -96,7 +96,7 @@ This project uses **Clerk Authentication** for:
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="./Screenshot/home-page.png" width="500"/>
+  <img src="Screenshot/home-page.png" width="500"/>
 </p>
 
 ### 🏨 Rooms
