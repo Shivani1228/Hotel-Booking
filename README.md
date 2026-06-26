@@ -95,7 +95,9 @@ This project uses **Clerk Authentication** for:
 
 ### 🏠 Home Page
 
-![Home Page](ScreenShot/home-page.png)
+<p align="center">
+  <img src="./Screenshot/home-page.png" width="500"/>
+</p>
 
 ### 🏨 Rooms
 
@@ -119,7 +121,7 @@ This project uses **Clerk Authentication** for:
 
 ### 📋 Room Listings
 
-![Room Listings](ScreenShot/list-room.png)
+![Room Listings](ScreenShot/List-Room.png)
 
 ---
 
